@@ -65,7 +65,7 @@ export default function LoginPage() {
         onClick={onLogin}
         className="p-2 border border-gray-300 rounded-lg bm-4 focus:outline-none focue:border-gray-600 "
       >
-        Signup here
+        Login here
       </button>
       <Link href="/signup" className="mt-6">
         Visit signup page
